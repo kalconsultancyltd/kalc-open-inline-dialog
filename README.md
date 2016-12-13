@@ -2,7 +2,8 @@
 A lightweight Dynamic Action Plug-In that allows you to customise the size, position and title of Inline Dialogs before opening
 
 Tested on DB 12.1.0.2 and Apex 5.0.4 using Universal Theme (42)
-The plugin should work on all versions of Apex 5.0.x (Universal Theme) on all relevant DB versions
+
+This plugin should work on all versions of Apex 5.0.x (Universal Theme) on all relevant DB versions
 
 ##Installation
 Import the following file into your Apex application
